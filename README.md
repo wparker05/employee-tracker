@@ -19,5 +19,5 @@ The Employee Tracker allows users to see all the employees, departments and posi
 
 
 ## Link
-[Walkthrough_Video]()
+[Walkthrough_Video](https://watch.screencastify.com/v/0qdvYKjV2npqTLX5Xa3O)
 

@@ -133,7 +133,7 @@ const selectedChoice = (selection) => {
                         name: 'manager',
                         choices: [
                            'Vito Corleone',
-                           'Micheal Corleone',
+                           'Michael Corleone',
                            'Connie Corleone',
                            'Tom Hagen'
                         ]
