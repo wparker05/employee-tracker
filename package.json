@@ -19,6 +19,7 @@
   "homepage": "https://github.com/wparker05/employee-tracker#readme",
   "dependencies": {
     "express": "^4.17.2",
+    "inquirer": "^8.2.0",
     "mysql2": "^2.3.3"
   }
 }

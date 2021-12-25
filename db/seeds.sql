@@ -17,11 +17,11 @@ VALUES ('Sales Lead',100000,1),
 
 
 INSERT INTO  employees (first_name,last_name,role_id,manager_id)
-VALUES ('Vito','Corleone',1 , 1),
-       ('Sonny','Corleone', 2, NULL),
-       ('Michael','Corleone', 3, 2),
-       ('Vincent','Corleone', 4, NULL),
-       ('Connie','Corleone', 5, 3),
-       ('Johnny','Fontane', 6,NULL),
-       ('Tom','Hagen', 7,4),
-       ('Peter','Clemenza', 8,NULL);
+VALUES ('Vito','Corleone',1 , NULL),
+       ('Sonny','Corleone', 2, 1),
+       ('Michael','Corleone', 3, NULL),
+       ('Vincent','Corleone', 4, 3),
+       ('Connie','Corleone', 5, NULL),
+       ('Johnny','Fontane', 6,5),
+       ('Tom','Hagen', 7,NULL),
+       ('Peter','Clemenza', 8,7);
